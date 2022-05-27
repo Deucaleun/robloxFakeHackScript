@@ -1,4 +1,4 @@
-.$> rblxAccHack.rbxlua
+.$> rblxAccHack.lua
 .$> Initiate...
 
 .$ rbxLuaCode>
